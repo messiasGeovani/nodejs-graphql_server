@@ -1,8 +1,7 @@
 # nodejs-graphql_server
 > A simple sever with graphql archtecture
 
-<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*IvCDlfi3vQfgyKO1eFv4jA.png"
-     alt="Graphql icon" />
+[<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*IvCDlfi3vQfgyKO1eFv4jA.png" alt="Graphql icon" />](https://graphql.org/)
 
 ## Intallation
 

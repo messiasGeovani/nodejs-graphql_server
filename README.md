@@ -15,7 +15,7 @@ yarn && yarn start
 yarn dev
 ```
 
-## Usage Manual:
+## Usage Manual
 
 ### Queries
 

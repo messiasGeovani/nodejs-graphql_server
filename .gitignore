@@ -1,0 +1,13 @@
+# default
+node_modules/
+
+# yarn
+yarn.lock
+yarn-error.log
+
+# dotenv
+.env
+
+# server logs
+error.log
+system.log
